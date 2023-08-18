@@ -1,5 +1,5 @@
 An interactive Rock, Paper, Scissors game crafted with HTML, CSS, and JavaScript, offering a classic gaming experience of strategy and chance.
-Deploy Link : [Copy link👉](rockpaperscissorsgame.joydeepsarkar4.repl.co)
+Deploy Link : [Rock-Paper_Scissors](rockpaperscissorsgame.joydeepsarkar4.repl.co)
 
 ➤ BELOW ARE SOME ATTACHED SCREENSHOTS OF THE GAMEPLAY 
 
